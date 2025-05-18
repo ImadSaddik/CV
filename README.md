@@ -1,8 +1,8 @@
 # Imad Saddik
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+Software engineer and astronomer based in Morocco 🇲🇦
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:simad3647@gmail.com) / [Medium](https://medium.com/@imadsaddik) / [LinkedIn](https://www.linkedin.com/in/imadsaddik/) / [GitHub](https://github.com/ImadSaddik) / [HuggingFace](https://huggingface.co/ImadSaddik)
 
 ## 👩🏼‍💻 Engineering Experience
 
