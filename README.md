@@ -1,4 +1,4 @@
-# Carolyn Stransky
+# Imad Saddik
 
 _Software engineer and journalist based in Berlin 🇩🇪_ <br>
 
