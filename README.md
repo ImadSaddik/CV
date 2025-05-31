@@ -69,17 +69,17 @@ Contributed to a project on innovative methods for energetically and economicall
 
 ## Education
 
-**Master’s Degree in Industrial Engineering – AI & Data Science** (_2021 – 2024_)</br>
+**Master’s Degree in Industrial Engineering – AI & Data Science** (_2021 – 2024_)  
 [ENSAM Meknès – École Nationale Supérieure d'Arts et Métiers](http://www.ensam-umi.ac.ma/)
 
-**Associate Degree in Electrical Engineering** (_2019 – 2021_)</br>
+**Associate Degree in Electrical Engineering** (_2019 – 2021_)  
 [ESTM Meknès – École Supérieure de Technologie de Meknès](https://www.est.umi.ac.ma/)
 
-**Baccalaureate in Electrical Science and Technology** (_2016 – 2019_)</br>
+**Baccalaureate in Electrical Science and Technology** (_2016 – 2019_)  
 [Lycée Moulay Ismail, Meknès](https://www.google.com/maps/place/School+Moulay+Ismail/@33.9041744,-5.5457042,17z/data=!3m1!4b1!4m6!3m5!1s0xda044dc9b13b681:0xd09762d0a901ebd1!8m2!3d33.9041744!4d-5.5457042!16s%2Fg%2F1tfryv64?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 
 ## Languages
 
-🇲🇦 **Arabic** - Native </br>
-🇺🇸 **English** </br>
+🇲🇦 **Arabic** - Native  
+🇺🇸 **English**  
 🇫🇷 **French**
