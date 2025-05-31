@@ -118,21 +118,6 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   <br><br>
   
 
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
 ## Accomplishments
 
 - **First Best Paper Award** @ [ICRERA 2024 — 13th International Conference on Renewable Energy Research and Applications](https://www.icrera.org/archieve2024/)
