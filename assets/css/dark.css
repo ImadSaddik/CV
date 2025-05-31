@@ -18,7 +18,7 @@ a:hover {
 
 header, footer {
   background-color: #1e1e1e;
-  padding: 20px; /* Added padding */
+  padding: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,15 +30,15 @@ strong, b {
 }
 
 section p, section li {
-  color: #e0e0e0; /* Ensure paragraphs and list items in the main section use the base light text color */
+  color: #e0e0e0;
 }
 
 section ul, section ol {
-  list-style-position: inside; /* Adjust list style position if needed */
+  list-style-position: outside;
 }
 
 section img {
-  background-color: #ffffff; /* Add a white background to images to ensure visibility if they are transparent */
-  padding: 5px; /* Add some padding around images */
-  border: 1px solid #333333; /* Add a subtle border to images */
+  background-color: #ffffff;
+  padding: 5px;
+  border: 1px solid #333333;
 }
