@@ -1,0 +1,21 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #90caf9;
+}
+
+a:hover {
+  color: #bbdefb;
+}
+
+.site-title,
+.site-nav {
+  color: #ffffff;
+}
+
+header, footer {
+  background-color: #1e1e1e;
+}
