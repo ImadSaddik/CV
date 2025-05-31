@@ -135,18 +135,24 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   
 ## Accomplishments
 
-**Won the first best paper award** @ [ICRERA 2024 13th INTERNATIONAL CONFERENCE ON RENEWABLE ENERGY RESEARCH AND APPLICATIONS](https://www.icrera.org/archieve2024/). [Find the paper here](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=2024%2013th%20International%20Conference%20on%20Renewable%20Energy%20Research%20and%20Applications&highlight=true&returnType=SEARCH&matchPubs=true&returnFacets=ALL&refinementName=Author&refinements=Author:Saddik%20Imad). _(November 2024)_
+- **First Best Paper Award** @ [ICRERA 2024 — 13th International Conference on Renewable Energy Research and Applications](https://www.icrera.org/archieve2024/)
+  _Awarded in November 2024_
+  [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=2024%2013th%20International%20Conference%20on%20Renewable%20Energy%20Research%20and%20Applications&highlight=true&returnType=SEARCH&matchPubs=true&returnFacets=ALL&refinementName=Author&refinements=Author:Saddik%20Imad)
+  ![Best Paper Award ICRERA 2024](./best_paper_award_icrera.png)
 
-<!-- show the image ./best_paper_award_icrera.pdf -->
-![Best Paper Award ICRERA 2024](./best_paper_award_icrera.png)
+- **Built [My Universe Hub](https://myuniversehub.com/)** – A personal website reimagining NASA’s APOD with a modern and interactive UI using **Vue.js** and **Django**.
 
-Built [My Universe Hub](https://myuniversehub.com/), a personal website that redesigns NASA's Astronomy Picture of the Day (APOD) using Vue.js and Django to be more modern and user-friendly.
+- **Created a course on training LLMs from scratch** on FreeCodeCamp
+  Covers the full lifecycle of LLMs: data encoding, tokenizers, pretraining, and fine-tuning.
+  ▶ [Watch the course](https://www.youtube.com/watch?v=9Ge0sMm65jo&t)
 
-**Created a course on how to train an LLM from scratch** on FreeCodeCamp, covering the complete lifecycle of Large Language Models, from data encoding, tokenizers, pre-training to fine-tuning. [Watch it here](https://www.youtube.com/watch?v=9Ge0sMm65jo&t).
+- **Created a course on Elasticsearch** on FreeCodeCamp
+  Teaches core concepts, indexing, querying, and practical integrations.
+  ▶ [Watch the course](https://www.youtube.com/watch?v=a4HBKEda_F8)
 
-**Created a course on Elasticsearch** on FreeCodeCamp, teaching the fundamentals of Elasticsearch, core concepts, querying, and practical integration for developers. [Watch it here](https://www.youtube.com/watch?v=a4HBKEda_F8).
-
-**Created a course on OSRM (Open Source Routing Machine)** on my YouTube channel 3CodeCamp, covering the basics of OSRM, its architecture, and how to use it for routing applications. [Watch it here](https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ&index=1&t).
+- **Created an OSRM (Open Source Routing Machine) course** on 3CodeCamp
+  Intro to OSRM architecture, routing basics, and building navigation apps.
+  ▶ [Watch the course](https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ&index=1&t)
 
 ## Education
 
