@@ -16,7 +16,7 @@ Developing and enhancing an internal AI-driven platform for employees.
 - Implemented comprehensive logging and monitoring for AI systems using **Elasticsearch** to ensure system observability, track performance, and facilitate troubleshooting.
 - **Technologies used:** Python, FastAPI, LangChain, LangGraph, ReAct, RAG, LLM APIs (OpenAI, Claude), Elasticsearch, Redis, React.js, TypeScript, Docker, Git.
 
-**AI Engineer consultant** @ AI-Inside Private _(Jun 2024 - May 2025)_
+**AI Engineer** @ AI-Inside Private _(Jun 2024 - May 2025)_
 
 Delivered AI and full-stack solutions for various client projects.
 
@@ -56,6 +56,12 @@ Contributed to a project on innovative methods for energetically and economicall
 - **Created an OSRM (Open Source Routing Machine) course** on 3CodeCamp
   Intro to OSRM architecture, routing basics, and building navigation apps.
   [Watch the course](https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ&index=1&t)
+
+## Certifications
+
+- **[Deep Learning Specialization](https://www.credly.com/badges/d50e8839-e5cd-40b4-b299-2470c2096db0/print)** - DeepLearning.AI
+- **Fundamentals of Agents** - Hugging Face
+- **Fundamentals of MCP** - Hugging Face
 
 ## Education
 
