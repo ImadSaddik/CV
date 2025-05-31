@@ -148,12 +148,6 @@ Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
 <br><br>
 
-## 💬 Languages
-
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
-<br><br>
-
 ## Education
 
 **Master's degree in Industrial Engineering, AI & Data Science**
@@ -164,3 +158,11 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 **High school degree in Electrical Science and Technology**
 [Lycée Moulay Ismail, Meknès](https://www.google.com/maps/place/School+Moulay+Ismail/@33.9041744,-5.5457042,17z/data=!3m1!4b1!4m6!3m5!1s0xda044dc9b13b681:0xd09762d0a901ebd1!8m2!3d33.9041744!4d-5.5457042!16s%2Fg%2F1tfryv64?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D) _(2016 - 2019)_
+
+## Languages
+
+🇲🇦 **Arabic**: Native
+
+🇺🇸 **English**
+
+🇫🇷 **French**
