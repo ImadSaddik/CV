@@ -137,7 +137,7 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 
 - **First Best Paper Award** @ [ICRERA 2024 — 13th International Conference on Renewable Energy Research and Applications](https://www.icrera.org/archieve2024/)
   _Awarded in November 2024_
-  [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=2024%2013th%20International%20Conference%20on%20Renewable%20Energy%20Research%20and%20Applications&highlight=true&returnType=SEARCH&matchPubs=true&returnFacets=ALL&refinementName=Author&refinements=Author:Saddik%20Imad)
+  [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10815288)
   ![Best Paper Award ICRERA 2024](./best_paper_award_icrera.png)
 
 - **Built [My Universe Hub](https://myuniversehub.com/)** – A personal website reimagining NASA’s APOD with a modern and interactive UI using **Vue.js** and **Django**.
