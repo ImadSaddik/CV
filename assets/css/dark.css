@@ -18,4 +18,27 @@ a:hover {
 
 header, footer {
   background-color: #1e1e1e;
+  padding: 20px; /* Added padding */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+strong, b {
+  color: #ffffff;
+}
+
+section p, section li {
+  color: #e0e0e0; /* Ensure paragraphs and list items in the main section use the base light text color */
+}
+
+section ul, section ol {
+  list-style-position: inside; /* Adjust list style position if needed */
+}
+
+section img {
+  background-color: #ffffff; /* Add a white background to images to ensure visibility if they are transparent */
+  padding: 5px; /* Add some padding around images */
+  border: 1px solid #333333; /* Add a subtle border to images */
 }
