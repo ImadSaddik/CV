@@ -157,14 +157,17 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 
 ## Education
 
-**Master's degree in Industrial Engineering, AI & Data Science**
-[ENSAM Meknès (École Nationale Supérieure d'Arts et Métiers)](http://www.ensam-umi.ac.ma/) _(2021 - 2024)_
+**Master’s Degree in Industrial Engineering – AI & Data Science**
+[ENSAM Meknès – École Nationale Supérieure d'Arts et Métiers](http://www.ensam-umi.ac.ma/)
+_2021 – 2024_
 
-**Associate degree in Electrical Engineering**
-[ESTM Meknès (Ecole Supérieure de Technologie de Meknès)](https://www.est.umi.ac.ma/) _(2019 - 2021)_
+**Associate Degree in Electrical Engineering**
+[ESTM Meknès – École Supérieure de Technologie de Meknès](https://www.est.umi.ac.ma/)
+_2019 – 2021_
 
-**High school degree in Electrical Science and Technology**
-[Lycée Moulay Ismail, Meknès](https://www.google.com/maps/place/School+Moulay+Ismail/@33.9041744,-5.5457042,17z/data=!3m1!4b1!4m6!3m5!1s0xda044dc9b13b681:0xd09762d0a901ebd1!8m2!3d33.9041744!4d-5.5457042!16s%2Fg%2F1tfryv64?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D) _(2016 - 2019)_
+**Baccalaureate in Electrical Science and Technology**
+[Lycée Moulay Ismail, Meknès](https://www.google.com/maps/place/School+Moulay+Ismail/@33.9041744,-5.5457042,17z/data=!3m1!4b1!4m6!3m5!1s0xda044dc9b13b681:0xd09762d0a901ebd1!8m2!3d33.9041744!4d-5.5457042!16s%2Fg%2F1tfryv64?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+_2016 – 2019_
 
 ## Languages
 
