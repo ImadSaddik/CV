@@ -171,8 +171,6 @@ _2016 – 2019_
 
 ## Languages
 
-🇲🇦 **Arabic**: Native
-
-🇺🇸 **English**
-
+🇲🇦 **Arabic** - Native </br>
+🇺🇸 **English** </br>
 🇫🇷 **French**
