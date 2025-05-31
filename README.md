@@ -154,16 +154,13 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 🇩🇪 **German**: B1
 <br><br>
 
-## 👩🏼‍🎓 Education
+## Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Master's degree in Industrial Engineering, AI & Data Science**
+[ENSAM Meknès (École Nationale Supérieure d'Arts et Métiers)](http://www.ensam-umi.ac.ma/) _(2021 - 2024)_
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**Associate degree in Electrical Engineering**
+[ESTM Meknès (Ecole Supérieure de Technologie de Meknès)](https://www.est.umi.ac.ma/) _(2019 - 2021)_
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**High school degree in Electrical Science and Technology**
+[Lycée Moulay Ismail, Meknès](https://www.google.com/maps/place/School+Moulay+Ismail/@33.9041744,-5.5457042,17z/data=!3m1!4b1!4m6!3m5!1s0xda044dc9b13b681:0xd09762d0a901ebd1!8m2!3d33.9041744!4d-5.5457042!16s%2Fg%2F1tfryv64?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D) _(2016 - 2019)_
