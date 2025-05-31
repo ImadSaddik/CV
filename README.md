@@ -133,20 +133,20 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
 <br><br>
   
-## 🏆 Accomplishments
+## Accomplishments
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
+**Won the first best paper award** @ [ICRERA 2024 13th INTERNATIONAL CONFERENCE ON RENEWABLE ENERGY RESEARCH AND APPLICATIONS](https://www.icrera.org/archieve2024/). [Find the paper here](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=2024%2013th%20International%20Conference%20on%20Renewable%20Energy%20Research%20and%20Applications&highlight=true&returnType=SEARCH&matchPubs=true&returnFacets=ALL&refinementName=Author&refinements=Author:Saddik%20Imad). _(November 2024)_
 
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
+<!-- show the image ./best_paper_award_icrera.pdf -->
+![Best Paper Award ICRERA 2024](./best_paper_award_icrera.png)
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
+Built [My Universe Hub](https://myuniversehub.com/), a personal website that redesigns NASA's Astronomy Picture of the Day (APOD) using Vue.js and Django to be more modern and user-friendly.
+
+**Created a course on how to train an LLM from scratch** on FreeCodeCamp, covering the complete lifecycle of Large Language Models, from data encoding, tokenizers, pre-training to fine-tuning. [Watch it here](https://www.youtube.com/watch?v=9Ge0sMm65jo&t).
+
+**Created a course on Elasticsearch** on FreeCodeCamp, teaching the fundamentals of Elasticsearch, core concepts, querying, and practical integration for developers. [Watch it here](https://www.youtube.com/watch?v=a4HBKEda_F8).
+
+**Created a course on OSRM (Open Source Routing Machine)** on my YouTube channel 3CodeCamp, covering the basics of OSRM, its architecture, and how to use it for routing applications. [Watch it here](https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ&index=1&t).
 
 ## Education
 
