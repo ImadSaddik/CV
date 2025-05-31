@@ -137,6 +137,7 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 
 - **First Best Paper Award** @ [ICRERA 2024 — 13th International Conference on Renewable Energy Research and Applications](https://www.icrera.org/archieve2024/)
   _Awarded in November 2024_
+  
   [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10815288)
   ![Best Paper Award ICRERA 2024](./best_paper_award_icrera.png)
 
@@ -144,14 +145,17 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 
 - **Created a course on training LLMs from scratch** on FreeCodeCamp
   Covers the full lifecycle of LLMs: data encoding, tokenizers, pretraining, and fine-tuning.
+  
   ▶ [Watch the course](https://www.youtube.com/watch?v=9Ge0sMm65jo&t)
 
 - **Created a course on Elasticsearch** on FreeCodeCamp
   Teaches core concepts, indexing, querying, and practical integrations.
+  
   ▶ [Watch the course](https://www.youtube.com/watch?v=a4HBKEda_F8)
 
 - **Created an OSRM (Open Source Routing Machine) course** on 3CodeCamp
   Intro to OSRM architecture, routing basics, and building navigation apps.
+  
   ▶ [Watch the course](https://www.youtube.com/watch?v=Ke_NISW-bDM&list=PLMSb3cZXtIfoT7duU9eAdpmcnDq2rINUJ&index=1&t)
 
 ## Education
