@@ -18,136 +18,27 @@ a:hover {
 
 header, footer {
   background-color: #1e1e1e;
-  padding: 20px; /* Existing padding */
-  border-bottom: 1px solid #333333; /* Add bottom border to header */
-}
-
-/* Specific border styling for footer */
-footer {
-  border-top: 1px solid #333333;
-  border-bottom: none; /* Footer should not have a double border if header also has one */
+  padding: 20px; /* Added padding */
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
-  border-bottom: 1px solid #444444; /* Add a subtle underline to headings */
-  padding-bottom: 0.3em; /* Space between text and underline */
-  margin-top: 1.5em; /* Add some top margin to headings */
-  margin-bottom: 0.8em; /* Adjust bottom margin for headings */
 }
-
-/* Remove border and adjust padding for the very first h1 in the main section (likely page title) */
-section > h1:first-child {
-  border-bottom: none;
-  padding-bottom: 0;
-  margin-top: 0; /* Remove top margin for the main page title */
-}
-
 
 strong, b {
-  color: #f5f5f5; /* Slightly off-white for strong text, more distinct */
-}
-
-/* Add padding to section and improve text readability */
-section {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  color: #ffffff;
 }
 
 section p, section li {
-  color: #e0e0e0;
-  line-height: 1.65; /* Slightly increased line-height for better readability */
-  margin-bottom: 1em; /* Add space below paragraphs and list items */
+  color: #e0e0e0; /* Ensure paragraphs and list items in the main section use the base light text color */
 }
 
 section ul, section ol {
-  list-style-position: inside;
-  padding-left: 20px; /* Add some padding to lists */
-  margin-bottom: 1em; /* Add space below lists */
+  list-style-position: inside; /* Adjust list style position if needed */
 }
 
 section img {
-  background-color: #ffffff; /* White background for transparent images */
-  padding: 8px; /* Increased padding around images */
-  border: 1px solid #444444; /* Slightly more visible border for images */
-  max-width: 100%; /* Ensure images are responsive */
-  height: auto; /* Maintain aspect ratio */
-  display: block; /* To allow margin auto centering */
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 1em; /* Space above image */
-  margin-bottom: 1em; /* Space below image */
-  border-radius: 4px; /* Slightly rounded corners for images */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Subtle shadow for images */
-}
-
-/* Horizontal Rule */
-hr {
-  border: 0;
-  height: 1px;
-  background: #444444; /* Darker gray for hr */
-  margin: 2.5em 0; /* Increased space around hr */
-}
-
-/* Blockquotes */
-blockquote {
-  color: #cccccc; /* Lighter gray for blockquote text */
-  border-left: 5px solid #03a9f4; /* Accent border (Material Blue) */
-  padding: 15px 20px; /* Increased padding */
-  margin: 1.5em 0; /* Adjusted margin */
-  font-style: italic;
-  background-color: #2a2a2a; /* Slightly different dark background for emphasis */
-  border-radius: 4px;
-}
-
-blockquote p {
-  color: #cccccc !important; /* Ensure p inside blockquote gets the right color */
-  margin-bottom: 0.5em !important; /* Adjust paragraph margin inside blockquote */
-}
-
-blockquote p:last-child {
-  margin-bottom: 0 !important; /* No margin for the last paragraph in blockquote */
-}
-
-/* Code blocks */
-pre {
-  background-color: #282c34; /* Common dark theme editor color (Atom One Dark-ish) */
-  color: #abb2bf; /* Softer light text for code */
-  padding: 1.2em; /* Increased padding */
-  overflow: auto; /* Scroll for long lines */
-  border-radius: 6px; /* More rounded corners */
-  border: 1px solid #3c4048; /* Subtle border */
-  margin: 1.5em 0; /* Space around code blocks */
-}
-
-code {
-  background-color: rgba(171, 178, 191, 0.1); /* Subtle background for inline code, derived from pre's text color */
-  color: #e06c75; /* A common color for keywords/tags in dark themes for inline code */
-  padding: 0.25em 0.5em; /* Adjusted padding */
-  border-radius: 4px; /* Rounded corners for inline code */
-  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; /* Common monospace font stack */
-  font-size: 0.9em; /* Slightly smaller font size for inline code */
-}
-
-/* Reset styles for code inside pre, as pre handles it */
-pre code {
-  padding: 0;
-  background-color: transparent; /* Code inside pre should not have its own background */
-  color: inherit; /* Inherit color from pre */
-  border-radius: 0;
-  border: none;
-  font-size: 1em; /* Reset font size for code within pre */
-}
-
-/* Specific adjustments for small text in header/footer */
-header p small,
-footer p small {
-    color: #aaaaaa; /* Dimmer color for small text not in links */
-    font-size: 0.85em; /* Slightly smaller small text */
-}
-
-/* Ensure links within small tags retain link styling */
-header p small a,
-footer p small a {
-    color: #90caf9; /* Explicitly set link color */
+  background-color: #ffffff; /* Add a white background to images to ensure visibility if they are transparent */
+  padding: 5px; /* Add some padding around images */
+  border: 1px solid #333333; /* Add a subtle border to images */
 }
