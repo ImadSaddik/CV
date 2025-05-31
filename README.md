@@ -59,9 +59,13 @@ Contributed to a project on innovative methods for energetically and economicall
 
 ## Certifications
 
-- **[Deep Learning Specialization](https://www.credly.com/badges/d50e8839-e5cd-40b4-b299-2470c2096db0/print)** - DeepLearning.AI
-- **Fundamentals of Agents** - Hugging Face
-- **Fundamentals of MCP** - Hugging Face
+- **[Deep Learning Specialization](https://www.credly.com/badges/d50e8839-e5cd-40b4-b299-2470c2096db0/print)** - _DeepLearning.AI_
+
+- **Fundamentals of Agents** - _Hugging Face_
+  ![Fundamentals of Agents Certificate](./smol_agents_certificate.png)
+
+- **Fundamentals of MCP** - _Hugging Face_
+  ![Fundamentals of MCP Certificate](./mcp_certificate.png)
 
 ## Education
 
