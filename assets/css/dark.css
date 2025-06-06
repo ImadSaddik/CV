@@ -33,10 +33,6 @@ section p, section li {
   color: #9f988c;
 }
 
-section ul, section ol {
-  list-style-position: outside;
-}
-
 section img {
   background-color: #ffffff;
   padding: 5px;
