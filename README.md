@@ -43,6 +43,10 @@ Contributed to a project on innovative methods for energetically and economicall
   [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10815288)
   ![Best Paper Award ICRERA 2024](./best_paper_award_icrera.png)
 
+- **Published an article** in the _Solar Energy Journal_ (Vol. 297, 2025, 113567). Title: Lightweight Deep Learning for Photovoltaic Energy Prediction : Optimizing Decarbonization in Winter Houses.
+
+  [Read the article on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0038092X25003305)
+
 - **Built [My Universe Hub](https://myuniversehub.com/)** – A personal website reimagining NASA’s APOD with a modern and interactive UI using **Vue.js** and **Django**.
 
 - **Created a course on training LLMs from scratch** on FreeCodeCamp
