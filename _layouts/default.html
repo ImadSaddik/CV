@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/dark.css' | relative_url }}" id="dark-mode-stylesheet">
     <!--[if lt IE 9]>
@@ -32,7 +33,10 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 				
-        <button id="theme-toggle-button" style="padding: 8px 12px; cursor: pointer; margin-top: 8px;">Toggle Theme</button> <!-- Added Theme Toggle Button -->
+        <button id="theme-toggle-button" style="background: none; border: none; font-size: 1.3em; cursor: pointer; margin-top: 8px; color: inherit; display: flex; align-items: center; gap: 0.5em;">
+          <span id="theme-toggle-icon" class="fa fa-moon-o"></span>
+          <span id="theme-toggle-label">Dark Mode</span>
+        </button>
         
 				{% if site.show_downloads %}
         <ul class="downloads">
@@ -57,16 +61,22 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
       const themeToggleButton = document.getElementById('theme-toggle-button');
+      const themeToggleIcon = document.getElementById('theme-toggle-icon');
+      const themeToggleLabel = document.getElementById('theme-toggle-label');
       const darkModeStylesheet = document.getElementById('dark-mode-stylesheet');
 
       function setTheme(theme) {
         if (theme === 'dark') {
           darkModeStylesheet.disabled = false;
-          themeToggleButton.textContent = 'Switch to light mode';
+          themeToggleIcon.className = 'fa fa-moon-o';
+          themeToggleLabel.textContent = 'Dark Mode';
+          themeToggleButton.setAttribute('aria-label', 'Switch to light mode');
           localStorage.setItem('theme', 'dark');
         } else {
           darkModeStylesheet.disabled = true;
-          themeToggleButton.textContent = 'Switch to dark mode';
+          themeToggleIcon.className = 'fa fa-sun-o';
+          themeToggleLabel.textContent = 'Light Mode';
+          themeToggleButton.setAttribute('aria-label', 'Switch to dark mode');
           localStorage.setItem('theme', 'light');
         }
       }
