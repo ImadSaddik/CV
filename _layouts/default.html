@@ -7,7 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/dark.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/dark.css' | relative_url }}" id="dark-mode-stylesheet">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -17,6 +17,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <button id="theme-toggle-button" style="padding: 8px 12px; cursor: pointer;">Toggle Theme</button> <!-- Added Theme Toggle Button -->
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -53,5 +54,39 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      const themeToggleButton = document.getElementById('theme-toggle-button');
+      const darkModeStylesheet = document.getElementById('dark-mode-stylesheet');
+
+      function setTheme(theme) {
+        if (theme === 'dark') {
+          darkModeStylesheet.disabled = false;
+          themeToggleButton.textContent = 'Switch to light mode';
+          localStorage.setItem('theme', 'dark');
+        } else {
+          darkModeStylesheet.disabled = true;
+          themeToggleButton.textContent = 'Switch to dark mode';
+          localStorage.setItem('theme', 'light');
+        }
+      }
+
+      themeToggleButton.addEventListener('click', () => {
+        const currentTheme = localStorage.getItem('theme') || (darkModeStylesheet.disabled ? 'light' : 'dark');
+        if (currentTheme === 'dark') {
+          setTheme('light');
+        } else {
+          setTheme('dark');
+        }
+      });
+
+      document.addEventListener('DOMContentLoaded', () => {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme) {
+          setTheme(savedTheme);
+        } else {
+          setTheme('dark');
+        }
+      });
+    </script>
   </body>
 </html>
