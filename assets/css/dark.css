@@ -34,7 +34,5 @@ section p, section li {
 }
 
 section img {
-  background-color: #ffffff;
   padding: 5px;
-  border: 1px solid #333333;
 }
