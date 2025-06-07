@@ -1,6 +1,5 @@
 body {
   background-color: #1e1e1e;
-  color: #e0e0e0;
 }
 
 a {
@@ -9,11 +8,6 @@ a {
 
 a:hover {
   color: #bbdefb;
-}
-
-.site-title,
-.site-nav {
-  color: #ffffff;
 }
 
 header, footer {
