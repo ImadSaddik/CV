@@ -35,6 +35,28 @@ Contributed to a project on innovative methods for energetically and economicall
 - Conducted research and analysis on ten buildings between Strasbourg and Paris campuses.
 - **Technologies used:** Python, Deep Learning, Machine Learning, Data Analysis, Research.
 
+## Open Source contributions
+
+For a complete overview of my open source contributions, check [this GitHub search query](https://github.com/search?q=is%3Apr+author%3Aimadsaddik+is%3Amerged+-user%3Aimadsaddik+is%3Apublic&type=pullrequests). Below is the same information organized by year.
+
+### 2025
+
+- [Removed unnecessary character from the kNN query documentation](https://github.com/elastic/elasticsearch/pull/130120) _(Elasticsearch)_
+- [Fixed grammar & spelling in Unit 2](https://github.com/huggingface/mcp-course/pull/42) _(Hugging Face)_
+- [Fixed grammar in multiple files](https://github.com/huggingface/mcp-course/pull/34) _(Hugging Face)_
+- [Fix grammar in Unit 2.3 - Document Analysis Graph](https://github.com/huggingface/agents-course/pull/447) _(Hugging Face)_
+- [Added the BoDmagh dataset in the general text corpora](https://github.com/UM6P-EMINES/Awesome-Darija-Arabic-NLP-Resources/pull/10) _(Awesome Darija Arabic NLP Resources)_
+- [Contributed more translations in 62.csv](https://github.com/darija-open-dataset/dataset/pull/204) _(Darija Open Dataset)_
+- [Dashboard to track the progress](https://github.com/darija-open-dataset/dataset/pull/202) _(Darija Open Dataset)_
+- [Worked on few rows on the 62nd file](https://github.com/darija-open-dataset/dataset/pull/200) _(Darija Open Dataset)_
+
+### 2024
+
+- [Fixed the code snippet in the Update State From Tools tutorial](https://github.com/langchain-ai/langgraph/pull/2752) _(LangGraph)_
+- [Fixed the documentation for the persistence concept](https://github.com/langchain-ai/langgraph/pull/2750) _(LangGraph)_
+- [Fixed hyperlink in search.asciidoc](https://github.com/elastic/elasticsearch/pull/115156) _(Elasticsearch)_
+- [File 62 - Contribution N1](https://github.com/darija-open-dataset/dataset/pull/164) _(Darija Open Dataset)_
+
 ## Accomplishments
 
 - **First Best Paper Award** @ [ICRERA 2024 — 13th International Conference on Renewable Energy Research and Applications](https://www.icrera.org/archieve2024/)
