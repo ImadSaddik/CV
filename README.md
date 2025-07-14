@@ -2,7 +2,7 @@
 
 Software engineer and astronomer based in Morocco 🇲🇦
 
-[Email](mailto:simad3647@gmail.com) / [Medium](https://medium.com/@imadsaddik) / [LinkedIn](https://www.linkedin.com/in/imadsaddik/) / [GitHub](https://github.com/ImadSaddik) / [HuggingFace](https://huggingface.co/ImadSaddik)
+[Email](mailto:simad3647@gmail.com) / [Medium](https://medium.com/@imadsaddik) / [LinkedIn](https://www.linkedin.com/in/imadsaddik/) / [GitHub](https://github.com/ImadSaddik) / [HuggingFace](https://huggingface.co/ImadSaddik) / [YouTube](https://www.youtube.com/@3CodeCampers)
 
 ## Engineering experience
 
