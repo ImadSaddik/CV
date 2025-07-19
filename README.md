@@ -16,7 +16,7 @@ Developing and enhancing an internal AI-driven platform for employees.
 - Implemented comprehensive logging and monitoring for AI systems using **Elasticsearch** to ensure system observability, track performance, and facilitate troubleshooting.
 - **Technologies used:** Python, FastAPI, LangChain, LangGraph, ReAct, RAG, LLM APIs (OpenAI, Claude), Elasticsearch, Redis, React.js, TypeScript, Docker, Git.
 
-**AI Engineer** @ AI-Inside Private _(Jun 2024 - May 2025)_
+**AI Engineer** @ [AI-Inside Private](https://www.ai-inside-private.com/) _(Jun 2024 - May 2025)_
 
 Delivered AI and full-stack solutions for various client projects.
 
