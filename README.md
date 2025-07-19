@@ -63,7 +63,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
   _Awarded in November 2024_
   
   [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10815288)
-  ![Best Paper Award ICRERA 2024](./best_paper_award_icrera.png)
+  ![Best Paper Award ICRERA 2024](./images/best_paper_award_icrera.png)
 
 - **Published an article** in the _Solar Energy Journal_ (Vol. 297, 2025, 113567).
 
@@ -89,10 +89,10 @@ For a complete overview of my open source contributions, check [this GitHub sear
 - **[Deep Learning Specialization](https://www.credly.com/badges/d50e8839-e5cd-40b4-b299-2470c2096db0/print)** - _DeepLearning.AI_
 
 - **Fundamentals of Agents** - _Hugging Face_
-  ![Fundamentals of Agents Certificate](./smol_agents_certificate.png)
+  ![Fundamentals of Agents Certificate](./images/smol_agents_certificate.png)
 
 - **Fundamentals of MCP** - _Hugging Face_
-  ![Fundamentals of MCP Certificate](./mcp_certificate.png)
+  ![Fundamentals of MCP Certificate](./images/mcp_certificate.png)
 
 ## Education
 
