@@ -76,6 +76,10 @@ For a complete overview of my open source contributions, check [this GitHub sear
   Covers the full lifecycle of LLMs: data encoding, tokenizers, pretraining, and fine-tuning.
   [Watch the course](https://www.youtube.com/watch?v=9Ge0sMm65jo&t)
 
+- **Created a course on the evolution of the Transformer architecture** on FreeCodeCamp
+  Covers the different attention methods, positional encoding methods, activation functions, and more.
+  [Watch the course](https://www.youtube.com/watch?v=8WBS0dT0h2I&t=1202s)
+
 - **Created a course on Elasticsearch** on FreeCodeCamp
   Teaches core concepts, indexing, querying, and practical integrations.
   [Watch the course](https://www.youtube.com/watch?v=a4HBKEda_F8)
