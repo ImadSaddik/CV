@@ -41,6 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [Fixed a small typo in context_precision.md](https://github.com/explodinggradients/ragas/pull/2166) _(Ragas)_
 - [Fixed the incorrect link to the 20B model in gpt-oss.md](https://github.com/huggingface/hub-docs/pull/1862) _(Hugging Face)_
 - [Removed unnecessary character from the kNN query documentation](https://github.com/elastic/elasticsearch/pull/130120) _(Elasticsearch)_
 - [Fixed grammar & spelling in Unit 2](https://github.com/huggingface/mcp-course/pull/42) _(Hugging Face)_
