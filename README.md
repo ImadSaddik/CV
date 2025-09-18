@@ -41,7 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
-- [Fix grammatical error in release notes introduction](https://github.com/elastic/docs-content/pull/3009) _(Elasticsearch)_
+- [Fixed a grammatical error in the introduction of the release notes](https://github.com/elastic/docs-content/pull/3009) _(Elasticsearch)_
 - [Fixed a typo in the description for the combination type](https://github.com/elastic/elasticsearch/pull/134689) _(Elasticsearch)_
 - [Fixed a small typo in context_precision.md](https://github.com/explodinggradients/ragas/pull/2166) _(Ragas)_
 - [Fixed the incorrect link to the 20B model in gpt-oss.md](https://github.com/huggingface/hub-docs/pull/1862) _(Hugging Face)_
