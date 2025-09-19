@@ -41,6 +41,8 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [Fixed typos in the kNN documentation
+](https://github.com/elastic/docs-content/pull/3042) _(Elasticsearch)_
 - [Fixed a grammatical error in the introduction of the release notes](https://github.com/elastic/docs-content/pull/3009) _(Elasticsearch)_
 - [Fixed a typo in the description for the combination type](https://github.com/elastic/elasticsearch/pull/134689) _(Elasticsearch)_
 - [Fixed a small typo in context_precision.md](https://github.com/explodinggradients/ragas/pull/2166) _(Ragas)_
