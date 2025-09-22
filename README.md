@@ -41,6 +41,8 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [Fixed typos in systemd.mdx](https://github.com/ghostty-org/website/pull/373) _(Ghostty website)_
+- [Fixed a typo in linear_model.rst](https://github.com/scikit-learn/scikit-learn/pull/32240) _(scikit-learn)_
 - [Fixed few typos in some files in the doc directory](https://github.com/Stellarium/stellarium/pull/4530) _(Stellarium)_
 - [Fixed typos in the kNN documentation
 ](https://github.com/elastic/docs-content/pull/3042) _(Elasticsearch)_
