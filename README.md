@@ -41,6 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [Fixed a typo in watchers.md](https://github.com/vuejs/docs/pull/3296) _(Vue.js docs)_
 - [Fixed a small typo in tokenizer-reference.md](https://github.com/elastic/elasticsearch/pull/135138) _(Elasticsearch)_
 - [Fixed typos in systemd.mdx](https://github.com/ghostty-org/website/pull/373) _(Ghostty website)_
 - [Fixed a typo in linear_model.rst](https://github.com/scikit-learn/scikit-learn/pull/32240) _(scikit-learn)_
