@@ -41,6 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [docs: fixed a few typos in the README of the LLaMA.cpp HTTP Server](https://github.com/ggml-org/llama.cpp/pull/16297) _(llama.cpp)_
 - [docs: fixed a few typos in gguf.md](https://github.com/huggingface/hub-docs/pull/1961) _(Hugging Face)_
 - [Fixed a small typo in the documentation](https://github.com/online-ml/river/pull/1710) _(river)_
 - [Fixed a typo in watchers.md](https://github.com/vuejs/docs/pull/3296) _(Vue.js docs)_
