@@ -41,6 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [Docs: Fixed a small typo in the Accelerometer API](https://github.com/mdn/content/pull/41389) _(MDN)_
 - [Docs: Fixed a small typo in sanitizing-data.md](https://github.com/elastic/apm-agent-python/pull/2440) _(Elasticsearch)_
 - [Docs: Fixed some typos in the observability documentation](https://github.com/elastic/docs-content/pull/3278) _(Elasticsearch)_
 - [fix: Minor typo in stt_tts.mdx](https://github.com/LibreChat-AI/librechat.ai/pull/418) _(LibreChat)_
