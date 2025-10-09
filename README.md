@@ -41,6 +41,8 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [Docs: Replaced a broken link](https://github.com/elastic/apm-agent-python/pull/2443) _(Elasticsearch)_
+- [Fixed a few typos](https://github.com/elastic/apm-agent-python/pull/2447) _(Elasticsearch)_
 - [Fixed a typo](https://github.com/mdn/content/pull/41427) _(MDN)_
 - [Docs: Fixed a small typo in the Accelerometer API](https://github.com/mdn/content/pull/41389) _(MDN)_
 - [Docs: Fixed a small typo in sanitizing-data.md](https://github.com/elastic/apm-agent-python/pull/2440) _(Elasticsearch)_
