@@ -41,6 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [docs: fixed a few typos](https://github.com/docling-project/docling/pull/2441) _(docling)_
 - [Fixed a few typos](https://github.com/BerriAI/litellm/pull/15267) _(litellm)_
 - [Docs: Replaced a broken link](https://github.com/elastic/apm-agent-python/pull/2443) _(Elasticsearch)_
 - [Fixed a few typos](https://github.com/elastic/apm-agent-python/pull/2447) _(Elasticsearch)_
