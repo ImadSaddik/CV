@@ -41,6 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [docs: fixed a few typos in README.md](https://github.com/katanemo/archgw/pull/593) _(archgw)_
 - [Added the missing .gitignore file](https://github.com/gkyle/startrails/pull/1) _(startrails)_
 - [Fixed a typo in vLLM command argument](https://github.com/vllm-project/recipes/pull/90) _(vllm)_
 - [docs: fixed a few typos](https://github.com/docling-project/docling/pull/2441) _(docling)_
