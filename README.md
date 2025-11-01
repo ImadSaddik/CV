@@ -41,6 +41,7 @@ For a complete overview of my open source contributions, check [this GitHub sear
 
 ### 2025
 
+- [docs: fixed a small typo in the notebook](https://github.com/google-deepmind/ai-foundations/pull/7) _(Google DeepMind)_
 - [Fixed a small typo in the bitnami deprecation blog post](https://github.com/raesene/raesene.github.io/pull/3) _(raesene.github.io)_
 - [docs: fixed a small typo](https://github.com/huggingface/optimum/pull/2375) _(Hugging Face)_
 - [docs: fixed a few typos in README.md](https://github.com/katanemo/archgw/pull/593) _(archgw)_
