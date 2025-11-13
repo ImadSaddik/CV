@@ -37,55 +37,32 @@ Contributed to a project on innovative methods for energetically and economicall
 
 ## Open Source contributions
 
-For a complete overview of my open source contributions, check [this GitHub search query](https://github.com/search?q=is%3Apr+author%3Aimadsaddik+is%3Amerged+-user%3Aimadsaddik+is%3Apublic&type=pullrequests). Below is the same information organized by year.
+For a complete overview of my open source contributions, check [this GitHub search query](https://github.com/search?q=is%3Apr+author%3Aimadsaddik+is%3Amerged+-user%3Aimadsaddik+is%3Apublic&type=pullrequests). Below is a selection of my featured contributions.
 
-### 2025
+### Darija Open Dataset
 
-- [Fix: Use bash for dev and open recipes in Justfile](https://github.com/wimpysworld/glyph-party/pull/5) _(glyph-party)_
-- [docs: fixed a small typo in the notebook](https://github.com/google-deepmind/ai-foundations/pull/7) _(Google DeepMind)_
-- [Fixed a small typo in the bitnami deprecation blog post](https://github.com/raesene/raesene.github.io/pull/3) _(raesene.github.io)_
-- [docs: fixed a small typo](https://github.com/huggingface/optimum/pull/2375) _(Hugging Face)_
-- [docs: fixed a few typos in README.md](https://github.com/katanemo/archgw/pull/593) _(archgw)_
-- [Added the missing .gitignore file](https://github.com/gkyle/startrails/pull/1) _(startrails)_
-- [Fixed a typo in vLLM command argument](https://github.com/vllm-project/recipes/pull/90) _(vllm)_
-- [docs: fixed a few typos](https://github.com/docling-project/docling/pull/2441) _(docling)_
-- [Fixed a few typos](https://github.com/BerriAI/litellm/pull/15267) _(litellm)_
-- [Docs: Replaced a broken link](https://github.com/elastic/apm-agent-python/pull/2443) _(Elasticsearch)_
-- [Fixed a few typos](https://github.com/elastic/apm-agent-python/pull/2447) _(Elasticsearch)_
-- [Fixed a typo](https://github.com/mdn/content/pull/41427) _(MDN)_
-- [Docs: Fixed a small typo in the Accelerometer API](https://github.com/mdn/content/pull/41389) _(MDN)_
-- [Docs: Fixed a small typo in sanitizing-data.md](https://github.com/elastic/apm-agent-python/pull/2440) _(Elasticsearch)_
-- [Docs: Fixed some typos in the observability documentation](https://github.com/elastic/docs-content/pull/3278) _(Elasticsearch)_
-- [fix: Minor typo in stt_tts.mdx](https://github.com/LibreChat-AI/librechat.ai/pull/418) _(LibreChat)_
-- [docs: fixed a few typos in the README of the LLaMA.cpp HTTP Server](https://github.com/ggml-org/llama.cpp/pull/16297) _(llama.cpp)_
-- [docs: fixed a few typos in gguf.md](https://github.com/huggingface/hub-docs/pull/1961) _(Hugging Face)_
-- [Fixed a small typo in the documentation](https://github.com/online-ml/river/pull/1710) _(river)_
-- [Fixed a typo in watchers.md](https://github.com/vuejs/docs/pull/3296) _(Vue.js docs)_
-- [Fixed a small typo in tokenizer-reference.md](https://github.com/elastic/elasticsearch/pull/135138) _(Elasticsearch)_
-- [Fixed typos in systemd.mdx](https://github.com/ghostty-org/website/pull/373) _(Ghostty website)_
-- [Fixed a typo in linear_model.rst](https://github.com/scikit-learn/scikit-learn/pull/32240) _(scikit-learn)_
-- [Fixed few typos in some files in the doc directory](https://github.com/Stellarium/stellarium/pull/4530) _(Stellarium)_
-- [Fixed typos in the kNN documentation
-](https://github.com/elastic/docs-content/pull/3042) _(Elasticsearch)_
-- [Fixed a grammatical error in the introduction of the release notes](https://github.com/elastic/docs-content/pull/3009) _(Elasticsearch)_
-- [Fixed a typo in the description for the combination type](https://github.com/elastic/elasticsearch/pull/134689) _(Elasticsearch)_
-- [Fixed a small typo in context_precision.md](https://github.com/explodinggradients/ragas/pull/2166) _(Ragas)_
-- [Fixed the incorrect link to the 20B model in gpt-oss.md](https://github.com/huggingface/hub-docs/pull/1862) _(Hugging Face)_
-- [Removed unnecessary character from the kNN query documentation](https://github.com/elastic/elasticsearch/pull/130120) _(Elasticsearch)_
-- [Fixed grammar & spelling in Unit 2](https://github.com/huggingface/mcp-course/pull/42) _(Hugging Face)_
-- [Fixed grammar in multiple files](https://github.com/huggingface/mcp-course/pull/34) _(Hugging Face)_
-- [Fix grammar in Unit 2.3 - Document Analysis Graph](https://github.com/huggingface/agents-course/pull/447) _(Hugging Face)_
-- [Added the BoDmagh dataset in the general text corpora](https://github.com/UM6P-EMINES/Awesome-Darija-Arabic-NLP-Resources/pull/10) _(Awesome Darija Arabic NLP Resources)_
-- [Contributed more translations in 62.csv](https://github.com/darija-open-dataset/dataset/pull/204) _(Darija Open Dataset)_
-- [Dashboard to track the progress](https://github.com/darija-open-dataset/dataset/pull/202) _(Darija Open Dataset)_
-- [Worked on few rows on the 62nd file](https://github.com/darija-open-dataset/dataset/pull/200) _(Darija Open Dataset)_
+- [Dashboard to track the progress](https://github.com/darija-open-dataset/dataset/pull/202) – _Built a tool to visualize project status_.
+- [Added the BoDmagh dataset in the general text corpora](https://github.com/UM6P-EMINES/Awesome-Darija-Arabic-NLP-Resources/pull/1) – _Expanded the dataset resources._
+- [Contributed more translations and data](https://github.com/darija-open-dataset/dataset/pull/204) – _Active contribution to dataset growth._
 
-### 2024
+### LangGraph
 
-- [Fixed the code snippet in the Update State From Tools tutorial](https://github.com/langchain-ai/langgraph/pull/2752) _(LangGraph)_
-- [Fixed the documentation for the persistence concept](https://github.com/langchain-ai/langgraph/pull/2750) _(LangGraph)_
-- [Fixed hyperlink in search.asciidoc](https://github.com/elastic/elasticsearch/pull/115156) _(Elasticsearch)_
-- [File 62 - Contribution N1](https://github.com/darija-open-dataset/dataset/pull/164) _(Darija Open Dataset)_
+- [Fixed the code snippet in the Update State From Tools tutorial](https://github.com/langchain-ai/langgraph/pull/2752) – _Corrected technical documentation code._
+- [Fixed the documentation for the persistence concept](https://github.com/langchain-ai/langgraph/pull/2750) – _Clarified core technical concepts._
+
+### glyph-party
+
+- [Fix: Use bash for dev and open recipes in Justfile](https://github.com/wimpysworld/glyph-party/pull/5) – _Functional fix for development environment scripts._
+
+### vLLM
+
+- [Fixed a typo in vLLM command argument](https://github.com/vllm-project/recipes/pull/90) – _Fixed a command-line argument error._
+
+### startrails
+
+- [Added the missing .gitignore file](https://github.com/gkyle/startrails/pull/1) – _Improved project configuration and repository hygiene._
+
+Plus a few documentation fixes and improvements.
 
 ## Accomplishments
 
